@@ -1,0 +1,12 @@
+{
+    "env": {
+        "PORT": 3000,
+        "DB_HOST": "mongodb+srv://user:geoprouser@geopro-db-test.ytvkw.mongodb.net"
+    },
+    "civility": ["Mr.", "Mme.", "Sté", "SDA", "SMVDA"],
+    "governorate": ["Ariana", "Béja", "Ben Arous", "Bizerte", "El kef", "Gabès", "Gafsa", "Jendouba", "Kairouan", "Kasserine", "Kébili", "Mahdia", "Mannouba", "Médenine", "Monastir", "Nabeul", "Sfax", "Sidi Bouzid", "Siliana", "Sousse", "Tataouine", "Tozeur", "Tunis", "Zaghouan"],
+    "service": ["Environnement", "Etude agricole", "Etude géologique et hydrogéologique", "Forage", "Génie minier", "Géothechnique", "NTEM", "SEV", "TEM", "Wenner"],
+    "demandState": ["En attente", "Confirmée", "Annulée"],
+    "reportState": ["En cours", "Elaboré", "Livré"],
+    "paymentState": ["Payé", "Avance", "Non payé"]
+}
